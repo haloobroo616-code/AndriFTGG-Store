@@ -1,0 +1,6 @@
+{
+  "name": "AndriFTGG Store",
+  "description": "Website jual panel Pterodactyl premium dan legal region Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
